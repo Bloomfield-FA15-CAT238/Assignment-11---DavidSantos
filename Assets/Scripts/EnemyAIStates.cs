@@ -1,0 +1,1 @@
+﻿public enum EnemyAIStates { Partolling, Chasing, Attacking };
